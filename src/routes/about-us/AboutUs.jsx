@@ -9,7 +9,7 @@ const AboutUs = () => {
     <div className="container mx-auto px-4 py-8">
       <h1 className="text-4xl font-extrabold text-brand mb-2">Sobre nosotros</h1>
       <p className="text-lg mb-8">
-        Bienvenido a <span className="text-brand">PACIFIC REEF</span>, donde esperamos 
+        Bienvenido a <span className="text-brand">KARIN REEF</span>, donde esperamos 
         proveerte la mejor experiencia para reservar habitaciones en hoteles a lo largo del mundo
       </p>
 
